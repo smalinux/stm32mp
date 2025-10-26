@@ -1,3 +1,6 @@
 [submodule "external/tfa"]
 	path = external/tfa
 	url = https://git.trustedfirmware.org/TF-A/trusted-firmware-a.git
+[submodule "external/optee"]
+	path = external/optee
+	url = https://github.com/OP-TEE/optee_os
