@@ -4,3 +4,6 @@
 [submodule "external/optee"]
 	path = external/optee
 	url = https://github.com/OP-TEE/optee_os
+[submodule "external/uboot"]
+	path = external/uboot
+	url = https://source.denx.de/u-boot/u-boot
