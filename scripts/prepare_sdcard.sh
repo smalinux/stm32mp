@@ -14,3 +14,4 @@ fi
 
 dd if=output/tf-a-stm32mp157a-dhcor-avenger96.stm32 of=${1}1 bs=1M conv=fdatasync
 dd if=output/tf-a-stm32mp157a-dhcor-avenger96.stm32 of=${1}2 bs=1M conv=fdatasync
+dd if=output/fip.bin of=${1}3 bs=1M conv=fdatasync
